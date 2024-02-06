@@ -46,11 +46,11 @@ Payment Status: [paymentStatus]
 
 **Please keep your Order ID handy when you collect your order.
 
-Our team is preparing your order for release. Hang tight! We'll be sending another email your way with release details soon.
+Our team is preparing your order for release. Hang tight! We'll be sending release details soon.
 
-If you have any questions or concerns about your order, don't hesitate to get in touch with our customer support at [Customer Support Email/Phone].
+If you have any questions or concerns about your order, don't hesitate to get in touch with our customer support us at [Customer Support Email/Phone].
 
-Thank you for supporting PSSE. We value your patronage and look forward to serving you again.
+Thank you for supporting PSSE. Looking forward to serving you again.
 
 
 
@@ -89,7 +89,9 @@ const sendEmailsToCustomers = async () => {
     const itemsString = order.items
       .map(
         (item: Item) =>
-          `${item.quantity}x ${item.name}(P${item.price} each) P${item.subtotal}`
+          `${item.quantity}x ${item.name}(P${item.price} each) ${
+            item.discount > 0 ? `with ${item.discount}% discount` : ''
+          } subtotal: P${item.subtotal}`
       )
       .join('\n');
 

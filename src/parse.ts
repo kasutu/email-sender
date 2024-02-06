@@ -78,5 +78,9 @@ export async function getJsonFile(filename: string) {
 }
 
 export function sortOrders(orders: Order[]) {
-  return orders.sort((a, b) => a.customerName.localeCompare(b.customerName));
+  try {
+    return orders.sort((a, b) => a.customerName.localeCompare(b.customerName));
+  } catch (error) {
+    console.log('Skipping item...', error);
+  }
 }

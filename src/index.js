@@ -24,13 +24,13 @@ const emailConfig = {
 };
 // Replace these values with your email content
 const emailContent = {
-    subject: 'PSSE Merch Update: Order Arrived in Storage',
+    subject: 'PSSE Merch Update: Item Arrived in Storage',
     body: `
-Dear [Customer Name],
+Dear [customerName],
 
 Greetings from PSSE! 
 
-We are excited to let you know that your recent order with us is now in storage and is being sorted for release. 
+We are excited to let you know that your Item is now in storage and is being sorted for release. 
 
 Here are the details of your order:
 
@@ -43,7 +43,7 @@ Total: P[total]
 Payment Status: [paymentStatus]
 =====================
 
-**Please keep your Order ID handy for when you collect your order.
+**Please keep your Order ID handy when you collect your order.
 
 Our team is preparing your order for release. Hang tight! We'll be sending another email your way with release details soon.
 
@@ -81,11 +81,11 @@ const sendEmailsToCustomers = () => __awaiter(void 0, void 0, void 0, function* 
     for (const order of yield (0, orders_1.getOrders)()) {
         // Generate items string
         const itemsString = order.items
-            .map((item) => `${item.quantity}x ${item.name}(P${item.price}) P${item.subtotal}`)
+            .map((item) => `${item.quantity}x ${item.name}(P${item.price} each) ${item.discount > 0 ? `with ${item.discount}% discount` : ''} subtotal: P${item.subtotal}`)
             .join('\n');
         // Replace placeholder values in the email body
         const personalizedBody = emailContent.body
-            .replace('[Customer Name]', order.customerName.split(',').reverse().join(' ')) // Replace with actual customer name
+            .replace('[customerName]', order.customerName.split(',').reverse().join(' ')) // Replace with actual customer name
             .replace('[orderId]', order.orderId) // Replace with actual order ID
             .replace('[items]', itemsString) // Replace with actual items string
             .replace('[total]', order.total.toString()) // Replace with actual total

@@ -17,7 +17,7 @@ export interface Order {
   paymentStatus: string;
 }
 
-const isProd = false;
+const isProd = true;
 
 export async function getOrders(): Promise<Order[]> {
   if (isProd) {
@@ -51,13 +51,13 @@ export async function getOrders(): Promise<Order[]> {
     },
     {
       customerName: 'Cabugwason, Jerome',
-      email: 'jeromecabugwason2@gmail.com',
+      email: 'jeromecabugwason@gmail.com',
       items: [
         {
           name: 'Lanyard',
           quantity: 1,
           price: 100,
-          discount: 0,
+          discount: 20,
           subtotal: 100,
         },
         {

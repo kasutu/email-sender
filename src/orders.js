@@ -11,7 +11,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getOrders = void 0;
 const parse_1 = require("./parse");
-const isProd = false;
+const isProd = true;
 function getOrders() {
     return __awaiter(this, void 0, void 0, function* () {
         if (isProd) {
@@ -44,13 +44,13 @@ function getOrders() {
             },
             {
                 customerName: 'Cabugwason, Jerome',
-                email: 'jeromecabugwason2@gmail.com',
+                email: 'jeromecabugwason@gmail.com',
                 items: [
                     {
                         name: 'Lanyard',
                         quantity: 1,
                         price: 100,
-                        discount: 0,
+                        discount: 20,
                         subtotal: 100,
                     },
                     {
