@@ -1,0 +1,719 @@
+[
+  {
+    "email": "jakeemdund.pacificadorii-22@cpu.edu.ph",
+    "orderId": "556810",
+    "customerName": "Pacificador, Jake Edmund",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "shawnsevalair@gmail.com",
+    "orderId": "128496",
+    "customerName": "Alair, Shawn Khennee",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "marieantoinette.legayada-22@cpu.edu.ph",
+    "orderId": "412846",
+    "customerName": "Legayada, Marie Antoinette",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 3,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 357
+      }
+    ],
+    "total": 357,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "naene30gust@gmail.com",
+    "orderId": "557299",
+    "customerName": "Tuden, Nelissa",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 2,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 238
+      }
+    ],
+    "total": 238,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "amadafrancy1983@gmail.com",
+    "orderId": "354083",
+    "customerName": "Amada, Francy Angelo",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "ryanpaul.gabrillo-12@cpu.edu.ph",
+    "orderId": "614145",
+    "customerName": "Gabrillo, Ryan Paul",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "diademgrace.arroz-21@cpu.edu.ph",
+    "orderId": "316170",
+    "customerName": "Arroz, Diadem Grace",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 75,
+        "subtotal": 29.75
+      }
+    ],
+    "total": 29.75,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "jaycellearianne.basco-21@cpu.edu.ph",
+    "orderId": "286543",
+    "customerName": "Basco, Jaycelle Arianne",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 3,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 357
+      }
+    ],
+    "total": 357,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "jpp200214@gmail.com",
+    "orderId": "324761",
+    "customerName": "Pineda, John Patrick",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "ianclyde.tejada-16@cpu.edu.ph",
+    "orderId": "463699",
+    "customerName": "Tejada, Ian Clyde",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "davejhaeson.alivio-21@cpu.edu.ph",
+    "orderId": "578073",
+    "customerName": "Alivio, Dave Jhaeson",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 89.25
+      }
+    ],
+    "total": 89.25,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "kyledominic.lomigo@gmail.com",
+    "orderId": "631287",
+    "customerName": "Lomigo, Kyle Dominic ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "paulvincent.lerado-21@cpu.edu.ph",
+    "orderId": "406155",
+    "customerName": "Lerado, Paul Vincent ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "faithninamarie.magsael-21@cpu.edu.ph",
+    "orderId": "939290",
+    "customerName": "Magsael, Faith Niña Marie",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "lovefaith.alcorin-11@cpu.edu.ph",
+    "orderId": "200961",
+    "customerName": "Alcorin, Love Faith H. ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 89.25
+      }
+    ],
+    "total": 89.25,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "amadafrancy1983@gmail.com",
+    "orderId": "781763",
+    "customerName": "Amada, Francy Angelo",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "shawnbarza414@gmail.com",
+    "orderId": "558571",
+    "customerName": "Barza, Shawn Timothy Ike ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "rainechristine.perez-22@cpu.edu.ph",
+    "orderId": "568779",
+    "customerName": "Perez, Raine Christine ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 89.25
+      }
+    ],
+    "total": 89.25,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "paulandreiardiente@gmail.com",
+    "orderId": "897255",
+    "customerName": "Ardiente, Paul Andrei ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "joshuademerin092503@gmail.com",
+    "orderId": "967013",
+    "customerName": "Demerin Joshua Ulimer",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "stevenballaret@gmail.com",
+    "orderId": "876723",
+    "customerName": "Ballaret, Steven",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 89.25
+      }
+    ],
+    "total": 89.25,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "joevany.aliguinjr-22@cpu.edu.ph",
+    "orderId": "718545",
+    "customerName": "Aliguin, Joevany",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "mjconstantino12345@gmail.com",
+    "orderId": "465146",
+    "customerName": "Constantino, Michael Jay",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "kenjoel275@gmail.com",
+    "orderId": "800511",
+    "customerName": "Urbano, Kenneth Joel",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "josearronfranz.suoberon-23@cpu.edu.ph",
+    "orderId": "137213",
+    "customerName": "Suoberon, Jose Arron Franz",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "samenianjoshua@gmail.com",
+    "orderId": "163997",
+    "customerName": "Samenian, Joshua",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "nicholaesara16@gmail.com",
+    "orderId": "245053",
+    "customerName": "Sara, Nicholae",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "juliusreygabriel.parman-23@cpu.edu.ph",
+    "orderId": "456972",
+    "customerName": "Parman, Julius Rey Gabriel ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "alhenajulienne.gedalanga-21@cpu.edu.ph",
+    "orderId": "891199",
+    "customerName": "Gedalanga, Alhena Julienne",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 100,
+        "subtotal": 0
+      }
+    ],
+    "total": 0,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "danielmark.wiegand-17@cpu.edu.ph",
+    "orderId": "675147",
+    "customerName": "Wiegand, Daniel Mark ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 89.25
+      }
+    ],
+    "total": 89.25,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "chadandrada20@gmail.com",
+    "orderId": "534078",
+    "customerName": "Andrada, Chad Denard",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "seannamo15@gmail.com",
+    "orderId": "525289",
+    "customerName": "Namo, Sean Patrick",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 89.25
+      }
+    ],
+    "total": 89.25,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "aljasonjavier@gmail.com",
+    "orderId": "956955",
+    "customerName": "Javier, Aljason ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "yoshifumisuzuki81194@gmail.com",
+    "orderId": "685137",
+    "customerName": "Suzuki, Yoshifumi ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "kassimmanaf@gmail.com",
+    "orderId": "389600",
+    "customerName": "Alonsagay, Lois",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 5,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 595
+      }
+    ],
+    "total": 595,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "kaizensomosera.04@gmail.com",
+    "orderId": "366252",
+    "customerName": "Somosera, Kaizen Louie",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "jennyrosesuelan@gmail.com",
+    "orderId": "257541",
+    "customerName": "Suelan, Jenny Rose",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "cassandraysabel24@gmail.com",
+    "orderId": "841560",
+    "customerName": "Gallo, Cassandra Ysabel",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 89.25
+      }
+    ],
+    "total": 89.25,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "sidryl.gerardo-21@cpu.edu.ph",
+    "orderId": "936049",
+    "customerName": "sidryl tana gerardo",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 2,
+        "price": 119,
+        "discount": 25,
+        "subtotal": 178.5
+      }
+    ],
+    "total": 178.5,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "dainzandrei.trasadas-23@cpu.edu.ph",
+    "orderId": "896336",
+    "customerName": "Trasadas, Dainz Andrei",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "elmorjohncortez97@gmail.com",
+    "orderId": "433271",
+    "customerName": "Cortez, Elmor John",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "jiverlee.delacruz-20@cpu.edu.ph",
+    "orderId": "948841",
+    "customerName": "Dela Cruz, Jiverlee",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Not Paid"
+  },
+  {
+    "email": "jp.rosalita-09@cpu.edu.ph",
+    "orderId": "472401",
+    "customerName": "Rosalita, JP",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 1,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 119
+      }
+    ],
+    "total": 119,
+    "paymentStatus": "Paid"
+  },
+  {
+    "email": "johnpatrick.gerona-17@cpu.edu.ph",
+    "orderId": "884595",
+    "customerName": "Gerona, John Patrick ",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": 2,
+        "price": 119,
+        "discount": 0,
+        "subtotal": 238
+      }
+    ],
+    "total": 238,
+    "paymentStatus": "Paid"
+  },
+  {
+    "orderId": "259119",
+    "items": [
+      {
+        "name": "Lanyard",
+        "quantity": null,
+        "price": 119,
+        "discount": 0,
+        "subtotal": null
+      }
+    ],
+    "total": null
+  }
+]

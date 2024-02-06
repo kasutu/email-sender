@@ -1,0 +1,45 @@
+role,customerName,quantity,subtotal,discount,payableAmount,paymentStatus,total,destributionStatus,email,mobileNumber,gcashRefNum,mayaRefNum,attendingCashier
+Regular,"Pacificador, Jake Edmund",1,119,0%,119,Paid,119,Not Recieved,jakeemdund.pacificadorii-22@cpu.edu.ph,,4014787074677,,
+Regular,"Alair, Shawn Khennee",1,119,0%,119,Paid,119,Not Recieved,shawnsevalair@gmail.com,,7014788098009,,
+Regular,"Legayada, Marie Antoinette",3,357,0%,357,Paid,357,Not Recieved,marieantoinette.legayada-22@cpu.edu.ph,,14788274399,,
+Regular,"Tuden, Nelissa",2,238,0%,238,Paid,238,Not Recieved,naene30gust@gmail.com,,7014789760421,,
+Regular,"Amada, Francy Angelo",1,119,0%,119,Paid,119,Not Recieved,amadafrancy1983@gmail.com,,9014790235060,,
+Regular,"Gabrillo, Ryan Paul",1,119,0%,119,Paid,119,Not Recieved,ryanpaul.gabrillo-12@cpu.edu.ph,,,,Matthew Ledesma
+Officer,"Arroz, Diadem Grace",1,119,75%,29.75,Paid,29.75,Not Recieved,diademgrace.arroz-21@cpu.edu.ph,,,,Self
+Regular,"Basco, Jaycelle Arianne",3,357,0%,357,Paid,357,Not Recieved,jaycellearianne.basco-21@cpu.edu.ph,,,,Diadem
+Regular,"Pineda, John Patrick",1,119,0%,119,Paid,119,Not Recieved,jpp200214@gmail.com,,,,Rafael III Prudente
+Regular,"Tejada, Ian Clyde",1,119,0%,119,Not Paid,0,Not Recieved,ianclyde.tejada-16@cpu.edu.ph,,,,
+Officer,"Alivio, Dave Jhaeson",1,119,25%,89.25,Paid,89.25,Not Recieved,davejhaeson.alivio-21@cpu.edu.ph,,,,Diadem
+Regular,"Lomigo, Kyle Dominic ",1,119,0%,119,Paid,119,Not Recieved,kyledominic.lomigo@gmail.com,,,,Diadem
+Regular,"Lerado, Paul Vincent ",1,119,0%,119,Paid,119,Not Recieved,paulvincent.lerado-21@cpu.edu.ph,,,,Diadem
+Regular,"Magsael, Faith Niña Marie",1,119,0%,119,Paid,119,Not Recieved,faithninamarie.magsael-21@cpu.edu.ph,,,,Franchescka Jewel Puljanan
+Officer,"Alcorin, Love Faith H. ",1,119,25%,89.25,Not Paid,0,Not Recieved,lovefaith.alcorin-11@cpu.edu.ph,,,,
+Regular,"Amada, Francy Angelo",1,119,0%,119,Paid,119,Not Recieved,amadafrancy1983@gmail.com,,9014790235060,,
+Regular,"Barza, Shawn Timothy Ike ",1,119,0%,119,Paid,119,Not Recieved,shawnbarza414@gmail.com,,,,Matthew Ledesma
+Officer,"Perez, Raine Christine ",1,119,25%,89.25,Paid,89.25,Not Recieved,rainechristine.perez-22@cpu.edu.ph,,,,Matthew Ledesma
+Regular,"Ardiente, Paul Andrei ",1,119,0%,119,Paid,119,Not Recieved,paulandreiardiente@gmail.com,,,,Franchescka Jewel Puljanan
+Regular,Demerin Joshua Ulimer,1,119,0%,119,Paid,119,Not Recieved,joshuademerin092503@gmail.com,,,,Franchescka Jewel Puljanan
+Officer,"Ballaret, Steven",1,119,25%,89.25,Paid,89.25,Not Recieved,stevenballaret@gmail.com,,,,Diadem
+Regular,"Aliguin, Joevany",1,119,0%,119,Paid,119,Not Recieved,joevany.aliguinjr-22@cpu.edu.ph,,,,Franchescka Jewel Puljanan
+Regular,"Constantino, Michael Jay",1,119,0%,119,Not Paid,0,Not Recieved,mjconstantino12345@gmail.com,,,,
+Regular,"Urbano, Kenneth Joel",1,119,0%,119,Paid,119,Not Recieved,kenjoel275@gmail.com,,,,Sidryl Gerardo
+Regular,"Suoberon, Jose Arron Franz",1,119,0%,119,Paid,119,Not Recieved,josearronfranz.suoberon-23@cpu.edu.ph,,8014796540738,,
+Regular,"Samenian, Joshua",1,119,0%,119,Not Paid,0,Not Recieved,samenianjoshua@gmail.com,,,,
+Regular,"Sara, Nicholae",1,119,0%,119,Paid,119,Not Recieved,nicholaesara16@gmail.com,,,,Sidryl Gerardo
+Regular,"Parman, Julius Rey Gabriel ",1,119,0%,119,Paid,119,Not Recieved,juliusreygabriel.parman-23@cpu.edu.ph,,5014811794970,,
+Officer,"Gedalanga, Alhena Julienne",1,119,100%,0,Paid,0,Not Recieved,alhenajulienne.gedalanga-21@cpu.edu.ph,,,,
+Officer,"Wiegand, Daniel Mark ",1,119,25%,89.25,Paid,89.25,Not Recieved,danielmark.wiegand-17@cpu.edu.ph,,6014830816352,,
+Regular,"Andrada, Chad Denard",1,119,0%,119,Paid,119,Not Recieved,chadandrada20@gmail.com,,9014846252508,,
+Officer,"Namo, Sean Patrick",1,119,25%,89.25,Paid,89.25,Not Recieved,seannamo15@gmail.com,,,,Diadem
+Regular,"Javier, Aljason ",1,119,0%,119,Paid,119,Not Recieved,aljasonjavier@gmail.com,,9014885388579,,
+Regular,"Suzuki, Yoshifumi ",1,119,0%,119,Paid,119,Not Recieved,yoshifumisuzuki81194@gmail.com,,2014885955055,,
+Regular,"Alonsagay, Lois",5,595,0%,595,Not Paid,0,Not Recieved,kassimmanaf@gmail.com,,,,
+Regular,"Somosera, Kaizen Louie",1,119,0%,119,Paid,119,Not Recieved,kaizensomosera.04@gmail.com,,14897780401,,
+Regular,"Suelan, Jenny Rose",1,119,0%,119,Paid,119,Not Recieved,jennyrosesuelan@gmail.com,,7014901277987,,
+Officer,"Gallo, Cassandra Ysabel",1,119,25%,89.25,Paid,89.25,Not Recieved,cassandraysabel24@gmail.com,,0014 907 651521,,
+Officer,sidryl tana gerardo,2,238,25%,178.5,Not Paid,0,Not Recieved,sidryl.gerardo-21@cpu.edu.ph,,,,GERARDO SIDRYL
+Regular,"Trasadas, Dainz Andrei",1,119,0%,119,Paid,119,Not Recieved,dainzandrei.trasadas-23@cpu.edu.ph,,,,GERARDO SIDRYL
+Regular,"Cortez, Elmor John",1,119,0%,119,Not Paid,0,Not Recieved,elmorjohncortez97@gmail.com,,,,GERARDO SIDRYL
+Regular,"Dela Cruz, Jiverlee",1,119,0%,119,Not Paid,0,Not Recieved,jiverlee.delacruz-20@cpu.edu.ph,,,,Diadem
+Regular,"Rosalita, JP",1,119,0%,119,Paid,119,Not Recieved,jp.rosalita-09@cpu.edu.ph,,,,Rafael III 
+Regular,"Gerona, John Patrick ",2,238,0%,238,Paid,238,Not Recieved,johnpatrick.gerona-17@cpu.edu.ph,,5015034007138,,
