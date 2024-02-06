@@ -44,7 +44,7 @@ Total: P[total]
 Payment Status: [paymentStatus]
 =====================
 
-**Please keep your Order ID handy for when you collect your order.
+**Please keep your Order ID handy when you collect your order.
 
 Our team is preparing your order for release. Hang tight! We'll be sending another email your way with release details soon.
 
