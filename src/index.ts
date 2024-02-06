@@ -25,13 +25,13 @@ const emailConfig: EmailConfig = {
 
 // Replace these values with your email content
 const emailContent: EmailContent = {
-  subject: 'PSSE Merch Update: Order Arrived in Storage',
+  subject: 'PSSE Merch Update: Item Arrived in Storage',
   body: `
-Dear [Customer Name],
+Dear [customerName],
 
 Greetings from PSSE! 
 
-We are excited to let you know that your recent order with us is now in storage and is being sorted for release. 
+We are excited to let you know that your Item is now in storage and is being sorted for release. 
 
 Here are the details of your order:
 
@@ -89,14 +89,14 @@ const sendEmailsToCustomers = async () => {
     const itemsString = order.items
       .map(
         (item: Item) =>
-          `${item.quantity}x ${item.name}(P${item.price}) P${item.subtotal}`
+          `${item.quantity}x ${item.name}(P${item.price} each) P${item.subtotal}`
       )
       .join('\n');
 
     // Replace placeholder values in the email body
     const personalizedBody = emailContent.body
       .replace(
-        '[Customer Name]',
+        '[customerName]',
         order.customerName.split(',').reverse().join(' ')
       ) // Replace with actual customer name
       .replace('[orderId]', order.orderId) // Replace with actual order ID
