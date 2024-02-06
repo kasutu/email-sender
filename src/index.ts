@@ -33,8 +33,7 @@ Greetings from PSSE!
 
 We are excited to let you know that your Item is now in storage and is being sorted for release. 
 
-Here are the details of your order:
-
+Order Details:
 =====================
 Order ID: [orderId]
 ---------------------
